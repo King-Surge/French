@@ -5,3 +5,7 @@
 - [French Greetings](notes/greetings.md)
 - [French Numbers](notes/numbers.md)
 - [French Countries](notes/countries.md)
+- [French Animals](notes/animals.md)
+- [French House](notes/house.md)
+- [Être](notes/Être.md)
+- 

@@ -4,6 +4,12 @@
 
 - ***Articles*** -  This indicates the gender of the noun (masculine or feminine) and its number (singular or plural)
 
+- ***Avoir*** - The verb that means to HAve
+
+## E
+
+- ***Être*** - The verb that means to be
+
 ## G
 
 - ***Greetings*** - Greetings is a formal or informal expression of welcome or recognition.

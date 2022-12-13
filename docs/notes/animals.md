@@ -11,6 +11,12 @@
 
 ![French Articles](../img/article.jpg)
 
+> Also see below the articles for My:
+
+- ***Ma*** - My (Feminine, Singular)
+- ***Mon*** - My (Masculine, Singular)
+- ***Mes*** - My (Plural)
+
 ## French Animal
 
 > :bulb: Below you can find some Animals and their french translation. Alll these can be found in the Glossary under Animals section.
