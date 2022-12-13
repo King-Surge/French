@@ -28,7 +28,7 @@
 - ***(le) cheval*** - Horse
 - ***(le) perroquet*** - Parrot
 - ***(le) hamster*** - Hamster
-- ***(le) lézard*** - Lixard
+- ***(le) lézard*** - Lizard
 - ***(le) serpent*** - Snake
 - ***l'oiseau*** - Bird
 - ***(le) tortue*** - Turtle
