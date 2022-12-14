@@ -11,6 +11,8 @@
   * [French House](notes/house.md)
   * [Prepositions](notes/prepositions.md)
 
+* **Resources**
+
 * **Glossary**
   * [Glossary](pages/glossary.md)
 
