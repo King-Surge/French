@@ -1,9 +1,9 @@
 ## Avoir - To Have
 - Avoir is the verb that means to Have
 
-## Avoir conjugation
+## Avoir conjugations
 
-- ***J'ai'*** – I am
+- ***J'ai*** – I am
 - ***Tu as*** – You are
 - ***Il a*** – He is
 - ***Elle a*** – She is
