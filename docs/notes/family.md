@@ -1,0 +1,22 @@
+## Family Members in French
+
+- ***le père*** - father
+- ***la mère*** - mother
+- ***les parents***  - parents/relatives
+- ***le frère***  -brother
+- ***la sœur***  - sister
+- ***les enfants***  - children
+- ***le grand-père***  - grandfather
+- ***la grand-mère*** - grandmother
+- ***les grands-parents*** - grand parents
+- ***l'oncle*** - uncle
+- ***la tante*** - aunt
+- ***le cousin***  - cousin (male)
+- ***la cousine*** - cousin (female)
+- ***la nièce***  - niece
+- ***le neveu***  - nephew
+- ***le fils***  - son
+- ***la fille***  - daughter
+- ***le petit-fils***  - grandson
+- ***la petite-fille***  - grand daughter
+- ***les petits-enfants*** - grandchildren
