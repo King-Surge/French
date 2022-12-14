@@ -8,4 +8,6 @@
 - [French Animals](notes/animals.md)
 - [French House](notes/house.md)
 - [Être](notes/Être.md)
-- 
+- [Avoir](notes/Avoir.md)
+- [French Colors](notes/colors.md)
+- [Prepositions](notes/prepositions.md)
