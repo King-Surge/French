@@ -6,7 +6,7 @@
   * [French Countries](notes/countries.md)
   * [French Animals](notes/animals.md)
   * [Être](notes/Être.md)
-  * [Avoir](notes/Avoir.md)
+  * [Avoir](notes/avoir.md)
   * [French Colors](notes/colors.md)
   * [French House](notes/house.md)
   * [Prepositions](notes/prepositions.md)
